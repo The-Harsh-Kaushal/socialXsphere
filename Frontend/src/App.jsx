@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from './components/Home/Navbar'
-
+import Auth from './components/Authentication/Auth'
+import Home from './components/Home/Home'
 const App = () => {
   return (
     <div>
-    <Navbar/>
+  <Auth></Auth>
     </div>
   )
 }
