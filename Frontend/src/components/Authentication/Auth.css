@@ -1,0 +1,10 @@
+
+.bg_img{
+    background: rgb(92,92,92);
+    background-image: linear-gradient(90deg, rgba(92,92,92,1) 33%, rgba(92,92,92,0.801733193277311) 65%, rgba(1,209,253,0) 94%),url(../../assets/pictures/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 40%;
+    border-radius: 15px;
+}
+  

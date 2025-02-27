@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&family=Tangerine:wght@400;700&display=swap');
-
+*{
+  box-sizing: border-box;
+}
 body{
     background: #000;
 
@@ -27,9 +29,7 @@ body{
     font-weight: 700;
     font-style: normal;
   }
-.helpfulgray{
-    color: #5c5c5c;
-}
+
 .oswald-bold {
     font-family: "Oswald", serif;
     font-optical-sizing: auto;
