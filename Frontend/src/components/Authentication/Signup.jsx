@@ -13,9 +13,9 @@ const Signup = () => {
         </div>
 
         {/* Form Section - Move to Left */}
-        <div className="w-[70%] flex items-center">
+        <div className="w-[70%] flex items-center ">
           <div className="w-[60%] p-8 bg-opacity-50">
-            <h3 className="text-gray-400 uppercase text-sm">Start for free</h3>
+            <h3 className="text-gray-400 uppercase text-sm ">Start for free</h3>
             <h1 className="text-white text-3xl font-semibold mt-2">
               Create new account<span className="text-blue-500">.</span>
             </h1>
